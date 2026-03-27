@@ -1,0 +1,9 @@
+{
+  "name": "mapmycivic-inference-service",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python src/server.py",
+    "dev": "python src/server.py"
+  }
+}

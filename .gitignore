@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+backend/.env
+inference-service/.env
+uploads/
+backend/uploads/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
